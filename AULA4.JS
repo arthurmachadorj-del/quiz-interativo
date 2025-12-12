@@ -18,6 +18,11 @@ const quiz = [
         pergunta: "Quem é o melhor pai?",
         opcoes: ["Arthur","Arthur","Arthur"],
         resposta: 1
+    },
+    {
+        pergunta: "Melhor time?",
+        opcoes: ["Vasco","Sele vasco"],
+        resposta: 1
     }
 ]
 
